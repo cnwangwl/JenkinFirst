@@ -1,5 +1,4 @@
 package com.kittyjenkins.test;
-#hello
 import com.jenkins.kitty.Demoone;
 import org.junit.Assert;
 import org.junit.Test;
